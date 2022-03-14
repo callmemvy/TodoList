@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="delete_button">Delete</string>
+    <string name="default_note_content">Sample task</string>
+    <string name="default_note_priority">#0</string>
+    <string name="note_priority">#%1$d</string>
+    <string name="add_note_button">Add task</string>
+    <string name="priority_label">Priority:</string>
+    <string name="content_label">Task:</string>
+    <string name="add_new_note_title">Add new task</string>
+    <string name="cancel_add_new_note_button">Cancel</string>
+    <string name="ok_add_new_note_button">Add</string>
+    <string name="priority_hint">number or empty</string>
+    <string name="content_hint">task description</string>
+    <string name="first_start">Первый запуск!</string>
+    <string name="list_external_storage_button">List External storage contents</string>
+    <string name="external_storage_not_mounted">External storage is not mounted</string>
+    <string name="cannot_access_external_storage">Cannot access external storage contents</string>
+    <string name="dir_file_prefix">D&#160;</string>
+    <string name="regular_file_prefix">F&#160;</string>
+    <string name="total_files_line">Total: %1$d.</string>
+    <string name="has_not_manage_permissions">Not all files listed because permissions to manage all files are\'t granted.</string>
+</resources>
